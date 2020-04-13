@@ -21,7 +21,7 @@ public class Carcheckoutpage extends Testbase{
 		car.venueclick();
 		Thread.sleep(5000);
 		findelementandclick(clickonbikesorcar);
-		Thread.sleep(6000);
+		Thread.sleep(5000);
 		
 	
 }
