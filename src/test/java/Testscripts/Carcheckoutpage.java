@@ -19,7 +19,7 @@ public class Carcheckoutpage extends Testbase{
 	public void checkoutpage() throws InterruptedException {
 	
 		car.venueclick();
-		Thread.sleep(5000);
+		Thread.sleep(6000);
 		findelementandclick(clickonbikesorcar);
 		Thread.sleep(5000);
 		
